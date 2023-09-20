@@ -8,6 +8,7 @@
 <br> https://shyunk.info/SAP_JCO/3/
 
 # [Spring] .jar로 배포하기(Window)
-<br>https://velog.io/@sians0209/Spring-.jar%EB%A1%9C-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0
+<br> https://velog.io/@sians0209/Spring-.jar%EB%A1%9C-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0
+<br> https://adg0609.tistory.com/57
  - Tomcat 설치및 삭제
 <br>https://carrotweb.tistory.com/32
