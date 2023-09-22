@@ -8,6 +8,7 @@
 <br> https://shyunk.info/SAP_JCO/3/
 <br> https://luceatluxvestra.tistory.com/29
 <br> https://asaprocky-sap-java.tistory.com/32
+<br> http://www.henrikfrank.dk/abaptips/javaforsap/javabasics/sapjava_simple_rfc.htm
 
 
 # [Spring] .jar로 배포하기(Window)
