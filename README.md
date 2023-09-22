@@ -21,3 +21,11 @@
 
 # ABAP 교육
 https://transno.com/doc/4WOVowqpVJP
+[과제 공지] 
+
+오늘 수업시간에 한것은 "판매오더(제품판매)"입니다.  (TCODE : VA03, TABLE: VBAK, VBAP)
+과제는 "구매오더(자재구입)"의 TCODE, TABLE(헤더,아이템) 을 알아내시고, 오늘과 같이 
+PARAMETER, SELECT-OPTIONS 5개 이상, 기초값 세팅(HS01 등), SELECT * (FROM 2개 JOIN) 까지 똑같이 만들어 보시면 되실 것 같습니다. 
+(약 1시간 이하로 소요됩니다.)
+
+혹시 하시다가 간단한 조작 사항이나, 에러등도 괜찮으니 메세지 주시면 확인하고 답변 드리겠습니다. 
