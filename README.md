@@ -11,7 +11,7 @@
 <br> http://www.henrikfrank.dk/abaptips/javaforsap/javabasics/sapjava_simple_rfc.htm
 
 # STS Lombok 문제
-https://hajoung56.tistory.com/13
+<br> https://hajoung56.tistory.com/13
 
 # [Spring] .war로 배포하기(Window) Spring 내부서버를 사용하지 않기에 war파일로 배포
 <br> https://velog.io/@sians0209/Spring-.jar%EB%A1%9C-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0
@@ -25,12 +25,12 @@ https://hajoung56.tistory.com/13
 https://transno.com/doc/4WOVowqpVJP
 [과제 공지] 
 
-오늘 수업시간에 한것은 "판매오더(제품판매)"입니다.  (TCODE : VA03, TABLE: VBAK, VBAP)
-과제는 "구매오더(자재구입)"의 TCODE, TABLE(헤더,아이템) 을 알아내시고, 오늘과 같이 
-PARAMETER, SELECT-OPTIONS 5개 이상, 기초값 세팅(HS01 등), SELECT * (FROM 2개 JOIN) 까지 똑같이 만들어 보시면 되실 것 같습니다. 
-(약 1시간 이하로 소요됩니다.)
+<br>오늘 수업시간에 한것은 "판매오더(제품판매)"입니다.  (TCODE : VA03, TABLE: VBAK, VBAP)
+<br>과제는 "구매오더(자재구입)"의 TCODE, TABLE(헤더,아이템) 을 알아내시고, 오늘과 같이 
+<br>PARAMETER, SELECT-OPTIONS 5개 이상, 기초값 세팅(HS01 등), SELECT * (FROM 2개 JOIN) 까지 똑같이 만들어 보시면 되실 것 같습니다. 
+<br>(약 1시간 이하로 소요됩니다.)
 
-혹시 하시다가 간단한 조작 사항이나, 에러등도 괜찮으니 메세지 주시면 확인하고 답변 드리겠습니다. 
+<br>혹시 하시다가 간단한 조작 사항이나, 에러등도 괜찮으니 메세지 주시면 확인하고 답변 드리겠습니다. 
 
-소스작성시 어려움이 있어 참조한 사이트
-https://only10.tistory.com/entry/SAP-ABAP-PARAMETER-SELECT-OPTION-SELECTION-SCREEN
+<br>소스작성시 어려움이 있어 참조한 사이트
+<br>https://only10.tistory.com/entry/SAP-ABAP-PARAMETER-SELECT-OPTION-SELECTION-SCREEN
