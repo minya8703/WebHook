@@ -10,8 +10,10 @@
 <br> https://asaprocky-sap-java.tistory.com/32
 <br> http://www.henrikfrank.dk/abaptips/javaforsap/javabasics/sapjava_simple_rfc.htm
 
+# STS Lombok 문제
+https://hajoung56.tistory.com/13
 
-# [Spring] .jar로 배포하기(Window)
+# [Spring] .war로 배포하기(Window) Spring 내부서버를 사용하지 않기에 war파일로 배포
 <br> https://velog.io/@sians0209/Spring-.jar%EB%A1%9C-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0
 <br> https://adg0609.tistory.com/57
  - Tomcat 설치및 삭제
@@ -29,3 +31,6 @@ PARAMETER, SELECT-OPTIONS 5개 이상, 기초값 세팅(HS01 등), SELECT * (FRO
 (약 1시간 이하로 소요됩니다.)
 
 혹시 하시다가 간단한 조작 사항이나, 에러등도 괜찮으니 메세지 주시면 확인하고 답변 드리겠습니다. 
+
+소스작성시 어려움이 있어 참조한 사이트
+https://only10.tistory.com/entry/SAP-ABAP-PARAMETER-SELECT-OPTION-SELECTION-SCREEN
