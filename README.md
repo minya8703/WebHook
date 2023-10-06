@@ -23,6 +23,7 @@
 
 # Json Data를 CSV파일로 변환
 <br> https://gksdudrb922.tistory.com/191
+<br> https://wankhedeshubham.medium.com/bean-to-csv-did-you-explore-open-csv-dfce18e4d815
 
 # ABAP 교육
 https://transno.com/doc/4WOVowqpVJP
