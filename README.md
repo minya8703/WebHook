@@ -11,6 +11,7 @@
 <br> http://www.henrikfrank.dk/abaptips/javaforsap/javabasics/sapjava_simple_rfc.htm
 <br> https://github.com/AES0P/SAP-Interface/tree/master
 <br> https://m.blog.naver.com/mini-wiki/222928185605 도움됨
+<br> https://luceatluxvestra.tistory.com/29
 
 # STS Lombok 문제
 <br> https://hajoung56.tistory.com/13
