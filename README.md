@@ -10,6 +10,7 @@
 <br> https://asaprocky-sap-java.tistory.com/32
 <br> http://www.henrikfrank.dk/abaptips/javaforsap/javabasics/sapjava_simple_rfc.htm
 <br> https://github.com/AES0P/SAP-Interface/tree/master
+<br> https://m.blog.naver.com/mini-wiki/222928185605 도움됨
 
 # STS Lombok 문제
 <br> https://hajoung56.tistory.com/13
