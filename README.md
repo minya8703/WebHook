@@ -30,6 +30,10 @@
 <br> https://gksdudrb922.tistory.com/191
 <br> https://wankhedeshubham.medium.com/bean-to-csv-did-you-explore-open-csv-dfce18e4d815
 
+# Properties
+<br>https://www.baeldung.com/spring-yaml-propertysource
+<br>https://github.com/eugenp/tutorials/blob/master/spring-boot-modules/spring-boot-properties-2/src/main/java/com/baeldung/properties/yaml/YamlFooProperties.java
+
 # ABAP 교육
 https://transno.com/doc/4WOVowqpVJP
 [과제 공지] 
