@@ -34,6 +34,9 @@
 <br>https://www.baeldung.com/spring-yaml-propertysource
 <br>https://github.com/eugenp/tutorials/blob/master/spring-boot-modules/spring-boot-properties-2/src/main/java/com/baeldung/properties/yaml/YamlFooProperties.java
 
+# 좋은 예외처리
+<br>https://velog.io/@doforme/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C-chap-7.-%EC%9A%B0%EC%95%84%ED%95%98%EA%B2%8C-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0
+
 # ABAP 교육
 https://transno.com/doc/4WOVowqpVJP
 [과제 공지] 
