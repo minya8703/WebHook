@@ -34,9 +34,10 @@
 <br>https://www.baeldung.com/spring-yaml-propertysource
 <br>https://github.com/eugenp/tutorials/blob/master/spring-boot-modules/spring-boot-properties-2/src/main/java/com/baeldung/properties/yaml/YamlFooProperties.java
 
-# 좋은 예외처리
+# 좋은 예외처리에 대한 고찰
 <br>https://velog.io/@doforme/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C-chap-7.-%EC%9A%B0%EC%95%84%ED%95%98%EA%B2%8C-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0
 <br>https://incheol-jung.gitbook.io/docs/q-and-a/spring/controlleradvice-exceptionhandler
+<br> https://adjh54.tistory.com/79#2.%20API%20%EB%B9%84%20%EC%A0%95%EC%83%81%20%EB%8F%99%EC%9E%91%20%EC%B2%98%EB%A6%AC%20%3A%20Exception%20%EB%B0%9C%EC%83%9D%20%EC%8B%9C-1
 # ABAP 교육
 https://transno.com/doc/4WOVowqpVJP
 [과제 공지] 
