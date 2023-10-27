@@ -47,7 +47,7 @@
 <br> https://supawer0728.github.io/2019/04/04/spring-error-handling/
 <br> https://youndol1999.tistory.com/entry/Spring-boot-Exception-%EC%B2%98%EB%A6%AC
 # 비동기 처리
-<br> https://velog.io/@heoseungyeon/REST-API-%EC%84%9C%EB%B2%84%EC%97%90%EC%84%9C-%EB%B9%84%EB%8F%99%EA%B8%B0%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%A0-%EB%95%8C-2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+<br> https://velog.io/@heoseungyeon/REST-API-%EC%84%9C%EB%B2%84%EC%97%90%EC%84%9C-%EB%B9%84%EB%8F%99%EA%B8%B0%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%A0-%EB%95%8C-2                                                      <br> https://velog.io/@springer/5-%EB%B9%84%EB%8F%99%EA%B8%B0-API-%EC%84%A4%EA%B3%84                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
 # ABAP 교육
 https://transno.com/doc/4WOVowqpVJP
 [과제 공지] 
