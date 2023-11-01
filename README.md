@@ -16,7 +16,7 @@
 # SAP에서 
 <br>http://en.verysource.com/code/34356576_1/StepByStepServer.java.html
 <br>https://sapabapcentral.blogspot.com/2017/08/sap-jco-server-example.html
-
+<br>https://answers.sap.com/questions/6741805/jco-server-programming-properties-and-connection-s.html
 
 # STS Lombok 문제
 <br> https://hajoung56.tistory.com/13
