@@ -61,3 +61,8 @@ https://transno.com/doc/4WOVowqpVJP
 
 <br>소스작성시 어려움이 있어 참조한 사이트
 <br>https://only10.tistory.com/entry/SAP-ABAP-PARAMETER-SELECT-OPTION-SELECTION-SCREEN
+
+<br>https://transno.com/doc/sKpDwPSnZP
+
+# RESTful API에 대해 잘 이해하고 있는가?
+<br> https://loosie.tistory.com/635?category=1004745
