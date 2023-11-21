@@ -66,3 +66,28 @@ https://transno.com/doc/4WOVowqpVJP
 
 # RESTful API에 대해 잘 이해하고 있는가?
 <br> https://loosie.tistory.com/635?category=1004745
+
+
+# 현재 고려중인 사항 (무중단과 자동으로 배포서비스)
+<br> https://ozofweird.tistory.com/entry/Spring-Boot-%EB%AC%B4%EC%A4%91%EB%8B%A8-%EC%84%9C%EB%B9%84%EC%8A%A4
+
+
+# nginx실행
+<br> https://hays99.tistory.com/153
+<br> 1.시작
+<br> > nginx
+
+<br> 2.종료
+<br> > nginx -s stop
+
+<br> 3.재시작
+<br> > nginx -s reload
+<br> -----------
+<br> 루트디렉토리 수정
+<br> - conf 디렉토리내의 nginx.conf 설정파일
+
+<br> location / {
+<br>                 #root   html;
+<br>                 root  "D:\html";
+<br>                 index  index.html index.htm;
+<br> }
