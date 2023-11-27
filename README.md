@@ -70,7 +70,7 @@ https://transno.com/doc/4WOVowqpVJP
 
 # 현재 고려중인 사항 (무중단과 자동으로 배포서비스)
 <br> https://ozofweird.tistory.com/entry/Spring-Boot-%EB%AC%B4%EC%A4%91%EB%8B%A8-%EC%84%9C%EB%B9%84%EC%8A%A4
-
+<br> https://taewooblog.tistory.com/entry/%EC%9C%88%EB%8F%84%EC%9A%B0-10%EC%97%90-nginx-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0
 
 # nginx실행
 <br> https://hays99.tistory.com/153
