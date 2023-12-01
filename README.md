@@ -12,6 +12,7 @@
 <br> https://github.com/AES0P/SAP-Interface/tree/master
 <br> https://m.blog.naver.com/mini-wiki/222928185605 도움됨
 <br> https://luceatluxvestra.tistory.com/29
+<br> https://docs.mulesoft.com/mule-runtime/3.9/sap-jco-extended-properties
 
 # SAP에서 
 <br>http://en.verysource.com/code/34356576_1/StepByStepServer.java.html
