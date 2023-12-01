@@ -14,6 +14,8 @@
 <br> https://luceatluxvestra.tistory.com/29
 <br> https://docs.mulesoft.com/mule-runtime/3.9/sap-jco-extended-properties
 
+<br> https://support.sap.com/content/dam/support/en_us/library/ssp/products/connectors/nwrfcsdk/NW_RFC_750_ProgrammingGuide.pdf
+<br> file:///C:/Users/2023A024/Downloads/dokumen.tips_nco-30-programmingguide-55844a1e5098b.pdf
 # SAP에서 
 <br>http://en.verysource.com/code/34356576_1/StepByStepServer.java.html
 <br>https://sapabapcentral.blogspot.com/2017/08/sap-jco-server-example.html
