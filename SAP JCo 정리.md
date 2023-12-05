@@ -49,10 +49,10 @@
 	static {
 		Properties connectProperties = new Properties();
 	   
-		connectProperties.setProperty(DestinationDataProvider.JCO_ASHOST,"10.11.3.42");
+		connectProperties.setProperty(DestinationDataProvider.JCO_ASHOST,"00.000.000.000");
 		connectProperties.setProperty(DestinationDataProvider.JCO_SYSNR, "00");
 		connectProperties.setProperty(DestinationDataProvider.JCO_CLIENT, "100");
-		connectProperties.setProperty(DestinationDataProvider.JCO_USER,"ZMKRC");
+		connectProperties.setProperty(DestinationDataProvider.JCO_USER,"username");
 		connectProperties.setProperty(DestinationDataProvider.JCO_PASSWD,"123456");
 		connectProperties.setProperty(DestinationDataProvider.JCO_LANG, "KO");
 		createDestinationDataFile(DESTINATION_NAME1, connectProperties);
