@@ -41,3 +41,90 @@
 - ▶ IBM iSeries 서버 : libicudata34.a, libicui18n34.a, libicuuc34.a, libsapjco3.so, os4apilib.so, sapjco3.jar
 
 
+# 소스 설명
+## 1. SAP 연결 정보 및 connection 얻기
+```JAVA
+	static String DESTINATION_NAME1 = "ABAP_AS_WITHOUT_POOL";
+	static String DESTINATION_NAME2 = "ABAP_AS_WITH_POOL";
+	static {
+		Properties connectProperties = new Properties();
+	   
+		connectProperties.setProperty(DestinationDataProvider.JCO_ASHOST,"10.11.3.42");
+		connectProperties.setProperty(DestinationDataProvider.JCO_SYSNR, "00");
+		connectProperties.setProperty(DestinationDataProvider.JCO_CLIENT, "100");
+		connectProperties.setProperty(DestinationDataProvider.JCO_USER,"ZMKRC");
+		connectProperties.setProperty(DestinationDataProvider.JCO_PASSWD,"123456");
+		connectProperties.setProperty(DestinationDataProvider.JCO_LANG, "KO");
+		createDestinationDataFile(DESTINATION_NAME1, connectProperties);
+		connectProperties.setProperty(DestinationDataProvider.JCO_POOL_CAPACITY, "3");
+		connectProperties.setProperty(DestinationDataProvider.JCO_PEAK_LIMIT,"10");
+		createDestinationDataFile(DESTINATION_NAME2, connectProperties);
+	}
+
+	static void createDestinationDataFile(String destinationName,
+			Properties connectProperties) {
+		File destCfg = new File(destinationName + ".jcoDestination");
+		try {
+			FileOutputStream fos = new FileOutputStream(destCfg, false);
+			connectProperties.store(fos, "for tests only !");
+			fos.close();
+		} catch (Exception e) {
+			throw new RuntimeException(
+					"Unable to create the destination files", e);
+		}
+	}
+```
+## 2. RFC Function 얻기
+``` java
+public JCoFunction getFunction(String functionStr) {
+		JCoFunction function = null;
+		try {
+			function = repository.getFunction(functionStr);
+		} catch (Exception e) {
+			throw new RuntimeException("Problem retrieving JCO.Function object.");
+		}
+
+		if (function == null) {
+			throw new RuntimeException("Not possible to receive function. ");
+		}
+		return function;
+	}
+```
+
+## 3. 테이블가져오기 실행
+``` java
+public static void getTable(String funcName) throws JCoException {
+		System.out.println("테이블가져오기 실행");
+		JCoDestination destination = JCoDestinationManager.getDestination(ABAP_AS);
+
+		// 연결정보확인.
+		System.out.println("Attributes:");
+		System.out.println(destination.getAttributes());
+		System.out.println();
+
+		// 리모트 펑션(?) 암튼 펑션명으로 호출
+		JCoFunction function = destination.getRepository().getFunction(funcName);
+		function.getImportParameterList().setValue("IV_INPUT", "a");
+		if (function == null)
+			throw new RuntimeException("SAP_DATA not found in SAP.");
+		try {
+			function.execute(destination);
+			System.out.println("실행완료::!!");
+		} catch (AbapException e) {
+			System.out.println(e.toString());
+			return;
+		}
+
+
+		// 펑션에서 테이블 호출
+		JCoTable exportTable = function.getTableParameterList().getTable("ET_OUTTAB");
+		 
+        if (exportTable == null) {
+            System.out.println("[T_DOC_LIST] not found in SAP");
+            return;
+        }
+ 
+        printTable(exportTable);
+	}
+}
+```
