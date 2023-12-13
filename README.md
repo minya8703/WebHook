@@ -95,3 +95,7 @@ https://transno.com/doc/4WOVowqpVJP
 <br>                 root  "D:\html";
 <br>                 index  index.html index.htm;
 <br> }
+
+
+# 서버 선택시 고려 사항
+<br>https://library.gabia.com/contents/infrahosting/1227/
