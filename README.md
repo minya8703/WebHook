@@ -101,3 +101,4 @@ https://transno.com/doc/4WOVowqpVJP
 <br>https://library.gabia.com/contents/infrahosting/1227/
 <br> https://velog.io/@ddh963963/JenkinsNginx%EB%A1%9C-%EB%AC%B4%EC%A4%91%EB%8B%A8-%EB%B0%B0%ED%8F%AC-%ED%95%98%EA%B8%B0-1%ED%8E%B8
 <br> 위의 예제로 가능할지도.... win 서버 무중단....
+<br> https://brunch.co.kr/@markism/39 가비아에대한 평가
