@@ -3,6 +3,7 @@
 - https://support.sap.com/en/product/connectors/jco.html?anchorId=section_2129803369
 - 기본적으로 SAP계정이 있다면 위의 사이트에서 받을 수 있다.
 ![image](https://github.com/minya8703/WebHook/assets/97384342/c09b98d8-8ac5-4c9b-b14a-b8922c61cef1)
+![image](https://github.com/minya8703/WebHook/assets/97384342/7882ee81-48d2-4e78-ae74-3e9ab58cd7d8)
 
 
 ## 2. 사용하는 서버에 따라 파일 설정 방식이 다르기에 사용하는 서버를 확인	
