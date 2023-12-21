@@ -12,7 +12,8 @@
 
 ##  3. Window LOCAL환경 셋팅	
 - sapjco.dll 파일을 C:\Windows\System32 폴더 안에 넣어준다.
-![image](https://github.com/minya8703/WebHook/assets/97384342/b96faf41-84f1-4bb6-ac0f-b2abc1703034)
+![System32 2023-12-21 오전 9_59_31](https://github.com/minya8703/WebHook/assets/97384342/f8810134-ba2d-4519-b048-a87d2641b2b5)
+
 ## 4. WebServer 프로젝트에서 lib폴더를 만들어 "sapjco3.jar" 라이브러리 추가		
 - Spring boot 프로젝트라면 Build Tool 에 따라 다르기에 아래의 Tool에 따라 dependency를 추가	
   -	※ Gradle
