@@ -22,6 +22,18 @@
   -	2. build.gradle파일에 dependencies { 여기에 추가 } 아래의 정보를 추가
   -	      implementation files("lib/sapjco3.jar")
 
+   -	※ Maven
+  -	1. lib 폴더에 sapjco3.jar을 추가
+![image](https://github.com/minya8703/WebHook/assets/97384342/1c734c05-4498-43a1-96df-d4a5e01cdedc)
+  -	2. pom.xml에 local-repository 추가
+  -	      <dependency>
+            <groupId>com.sap.conn.jco</groupId>
+            <artifactId>sapjco3</artifactId>
+            <version>3.0.14</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/lib/sapjco3.jar</systemPath>
+</dependency>
+
 ## 【참고】 서버별 설정 방법
 <br> https://husheart.tistory.com/135
 ###  Window LOCAL
