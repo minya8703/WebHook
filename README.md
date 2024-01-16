@@ -114,3 +114,5 @@ https://garve32.tistory.com/42
 <arguments>-Xrs -Xmx256m -Dhudson.lifecycle=hudson.lifecycle.WindowsServiceLifecycle -jar "%BASE%\jenkins.war" --httpPort=8888 --webroot="%BASE%\war"</arguments>
 ```
 
+<br> https://garve32.tistory.com/72
+
