@@ -105,3 +105,12 @@ https://transno.com/doc/4WOVowqpVJP
 
 # 폐쇄망 git
 <br> https://garve32.tistory.com/77
+
+```
+젠킨스 설치 디렉토리에 가보면 Jenkins.xml 파일이
+https://garve32.tistory.com/42
+
+<executable>D:\tools\openjdk-1.8.0.242\bin\java</executable>
+<arguments>-Xrs -Xmx256m -Dhudson.lifecycle=hudson.lifecycle.WindowsServiceLifecycle -jar "%BASE%\jenkins.war" --httpPort=8888 --webroot="%BASE%\war"</arguments>
+```
+
